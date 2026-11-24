@@ -87,3 +87,47 @@ Day 7: rest, or a light review of the week's notes.
 - How many applications did I send?
 - What did I post publicly?
 - What's the one thing to fix next week?
+
+---
+
+## South Africa: where to look
+
+> Programmes, intakes and eligibility change often (many are for ages 18–35, unemployed,
+> SA citizens). **Check each website for current intakes before relying on it.**
+> Never pay a fee to be placed in a learnership or job; that's a scam signal.
+
+### Paid training / learnerships (earn a stipend while you learn)
+- **CAPACITI** (UVU Africa): tech and AI bootcamps with stipends + placement
+- **YES (Youth Employment Service)**: 12-month paid work experience at companies
+- **Harambee Youth Employment Accelerator**: job matching for young work-seekers
+- **MICT SETA learnerships**: IT/cybersecurity learnerships, often with CompTIA certs included
+- **Bank & telco graduate/learnership programmes**: Standard Bank, FNB/FirstRand, Absa, Capitec,
+  Nedbank, Discovery, Vodacom, MTN; IT and cyber intakes are usually advertised once or twice a year
+- **WeThinkCode_**: free coding school (no tuition)
+
+### Companies with security teams (follow them on LinkedIn, watch their careers pages)
+- Security consultancies: Orange Cyberdefense / SensePost, Telspace Systems, Performanta, Snode,
+  NTT Data / Dimension Data, Liquid C2, Mimecast, BUI
+- Banks, insurers, telcos (above): they hire SOC analysts and graduates every year
+
+### Job boards
+LinkedIn · PNet · CareerJunction · OfferZen (developers) · Indeed SA · Harambee's SAYouth.mobi
+
+### SA-specific skills that make me stand out
+- **POPIA** (Protection of Personal Information Act): AI chatbots leaking personal data is
+  a POPIA problem. Mentioning it in projects and interviews shows local awareness.
+- **Cybercrimes Act 19 of 2020**: know what's illegal; only test with permission.
+- Certificates SA employers recognise: **CompTIA Security+** (often funded via learnerships),
+  ISC2 CC, Microsoft SC-900/SC-200, Google Cybersecurity Certificate.
+
+### Getting paid from overseas (gigs, competitions, bug bounties)
+- PayPal (withdraw to an SA bank account, e.g. FNB), Payoneer, Wise
+- Overseas income is still taxable: register with SARS when it starts coming in.
+
+### Practical SA setup
+- Download big things (VM updates, models, datasets) on uncapped Wi-Fi, not mobile data.
+- Keep offline work ready for power cuts: the MML book PDF, py4e chapters, notes.
+
+### Community
+- OWASP South Africa chapters (Johannesburg, Cape Town) · BSides Cape Town / BSides Joburg
+- ZaCon / SecTalks-style local meetups · ITWeb Security Summit (watch for free/student passes)
