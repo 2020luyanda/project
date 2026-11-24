@@ -35,7 +35,7 @@ ML security = **three skills** combined:
 ```
 
 You don't need to be an expert in all three before starting. Learn them in parallel,
-but in the order below. **Rough time: 9–12 months at ~1.5–2 hours a day.**
+but in the order below. **Rough time: 9–12 months at ~1.5–2 hours a day.** See [PLAN.md](PLAN.md) for my personal 3 h/day job-hunting schedule.
 
 ---
 
