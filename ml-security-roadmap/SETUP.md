@@ -40,8 +40,14 @@ cd ml-security-roadmap
 python3 -m venv .venv
 source .venv/bin/activate          # Windows PowerShell: .venv\Scripts\Activate.ps1
 pip install --upgrade pip
+# No NVIDIA GPU (e.g. AMD/Intel graphics, or inside a VM)? Install the CPU-only PyTorch FIRST.
+# Otherwise pip downloads several GB of NVIDIA libraries you can't use.
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
 pip install -r requirements.txt
 ```
+
+> **Debian 12 / Ubuntu 23.04+:** `pip install` outside a venv fails with
+> "externally-managed-environment". That's expected; always activate the venv first.
 
 Every time you come back to work: `source .venv/bin/activate`.
 
