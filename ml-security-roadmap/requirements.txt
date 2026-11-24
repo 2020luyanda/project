@@ -1,0 +1,18 @@
+# Core ML / data stack (Phases 1-2)
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyterlab
+torch
+torchvision
+transformers
+datasets
+
+# RAG projects (Phase 2)
+chromadb
+
+# AI security (Phase 4) - install these later, see SETUP.md section 6
+# adversarial-robustness-toolbox
+# garak
+# pyrit
